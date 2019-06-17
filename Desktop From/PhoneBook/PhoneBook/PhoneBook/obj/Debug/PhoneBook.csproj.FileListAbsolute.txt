@@ -1,0 +1,18 @@
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.FrmMain.resources
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\NEO\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.FrmMain.resources
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Android\Documents\Received Files\PhoneBook\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

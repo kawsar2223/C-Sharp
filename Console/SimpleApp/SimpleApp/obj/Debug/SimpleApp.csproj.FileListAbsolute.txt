@@ -1,0 +1,7 @@
+C:\Users\Android\Source\repos\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\Android\Source\repos\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\Android\Source\repos\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\Android\Source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csprojAssemblyReference.cache
+C:\Users\Android\Source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Android\Source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\Android\Source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
